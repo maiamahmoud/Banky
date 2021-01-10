@@ -1,0 +1,2 @@
+C:\Visual Codes\Banky\Debug\Banky.exe
+C:\Visual Codes\Banky\Debug\Banky.pdb
